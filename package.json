@@ -7,13 +7,13 @@
     "framework",
     "starter"
   ],
-  "homepage": "https://github.com/Sean-93/astro-basic-starter#readme",
+  "homepage": "https://github.com/timlricke-stack/astro.starter.git",
   "bugs": {
-    "url": "https://github.com/Sean-93/astro-basic-starter/issues"
+    "url": "https://github.com/timlricke-stack/astro.starter/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sean-93/astro-basic-starter.git"
+    "url": "git+https://github.com/timlricke-stack/astro.starter.git"
   },
   "license": "ISC",
   "author": "",
